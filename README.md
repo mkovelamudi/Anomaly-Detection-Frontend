@@ -18,9 +18,6 @@ Deployed on Nvidia Jetson Orin Nano device as edge node.
 ## Project Flow
 ![FlowChart295B (1)](https://github.com/mkovelamudi/Anomaly-Detection-Frontend/assets/99615170/ec205ca6-4d65-4b16-9266-a29bc5829086)
 
-## Image Pipeline
-![pipeline (2)](https://github.com/mkovelamudi/Anomaly-Detection-Frontend/assets/99615170/bb780d2e-6643-4b21-ae8a-43126b955877)
-
 # Setup
 ### Front End
 ```
