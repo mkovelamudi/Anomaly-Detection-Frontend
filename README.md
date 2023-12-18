@@ -1,5 +1,7 @@
 # Anomaly-Detection-Project
-This project aims to detect anomalies from images and displays the detections on the images by drawing bounding boxes on it. This project also contains Annotation and Segmentation tools integrated into it, which enables users to modify annotations and segmentations predicted by the application. These images are stored and used for re-training of detection models tog et higher accuracy.
+This project aims to detect anomalies from images and displays the detections on the images by drawing bounding boxes on it. This project also contains Annotation and Segmentation tools integrated into it, which enables users to modify annotations and segmentations predicted by the application. These images are stored and used for re-training of detection models to get higher accuracy.
+
+This is frontend part of the project. For backend refer https://github.com/mkovelamudi/Anomaly-Detection-Backend.git
 
 ## Technoglies Used
 ### Front End
